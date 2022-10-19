@@ -5,7 +5,7 @@ import {main} from '../assets'
 
 const Hero = () => {
   return (
-    <section className="flex sm:flex-row flex-col md:py-16 py-1">
+    <section className="flex md:flex-row flex-col md:py-16 py-1">
       <div className="flex-1 flex justify-center items-start flex-col">
         <h2 className="font-poppins font-semibold text-[40px] xs:leading-[76.8px] leading-[66.8px] w-full mt-[35px] sm:mt-[65px]">
           Discover, Collect <br />
