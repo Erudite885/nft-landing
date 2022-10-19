@@ -1,4 +1,6 @@
 import React from "react";
+
+import {Counter} from './index'
 import {main} from '../assets'
 
 const Hero = () => {
@@ -19,9 +21,8 @@ const Hero = () => {
           <h2 className='italic font-semibold text-blue-900'>
             NFT drop coming soon
           </h2>
-          <p>countdown</p>
+          <Counter />
         </div>
-        {/* <Button styles="mt-10 rounded-[10px]" /> */}
       </div>
 
       <div className="flex-1 flex justify-center items-center sm:ml-5 md:ml-10 ml-0 sm:mt-[55px] mt-10 relative">
