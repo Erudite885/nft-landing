@@ -107,3 +107,60 @@ export const socialMedia = [
     link: "https://www.linkedin.com/",
   },
 ];
+
+const top = [
+  {
+    id: "1",
+    name: "abstact",
+    price: "ATH 9.85",
+    img: one,
+  },
+  {
+    id: "2",
+    name: "abstact",
+    price: "ETH 5.05",
+    img: two,
+  },
+  {
+    id: "3",
+    name: "abstact",
+    price: "NTH 2.85",
+    img: three,
+  },
+  {
+    id: "4",
+    name: "abstact",
+    price: "ZTN 12.54",
+    img: four,
+  },
+  {
+    id: "5",
+    name: "abstact",
+    price: "ETH 7.65",
+    img: five,
+  },
+  {
+    id: "6",
+    name: "abstact",
+    price: "FTH 13.01",
+    img: six,
+  },
+  {
+    id: "7",
+    name: "abstact",
+    price: "ETH 4.85",
+    img: seven,
+  },
+  {
+    id: "8",
+    name: "abstact",
+    price: "ETH 8.85",
+    img: eight,
+  },
+  // {
+  //   id: "1",
+  //   name: "abstact",
+  //   price: "ATH 9.85",
+  //   img: one,
+  // },
+];
