@@ -23,23 +23,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.thecoffeeroasters.com/content/",
+        link: "https://www.nft.com/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.thecoffeeroasters.com/how-it-works/",
+        link: "https://www.nft.com/how-it-works/",
       },
       {
-        name: "Create",
-        link: "https://www.thecoffeeroasters.com/create/",
+        name: "Connect",
+        link: "https://www.nft.com/connect/",
       },
       {
         name: "Explore",
-        link: "https://www.thecoffeeroasters.com/explore/",
+        link: "https://www.nft.com/explore/",
       },
       {
         name: "Terms & Service",
-        link: "https://www.thecoffeeroasters.com/terms-and-Service/",
+        link: "https://www.nft.com/terms-and-Service/",
       },
     ],
   },
@@ -49,23 +49,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.thecoffeeroasters.com/help-center/",
+        link: "https://www.nft.com/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.thecoffeeroasters.com/partners/",
+        link: "https://www.nft.com/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.thecoffeeroasters.com/suggestions/",
+        link: "https://www.nft.com/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.thecoffeeroasters.com/blog/",
+        link: "https://www.nft.com/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.thecoffeeroasters.com/newsletters/",
+        link: "https://www.nft.com/newsletters/",
       },
     ],
   },
@@ -75,11 +75,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.thecoffeeroasters.com/our-partner/",
+        link: "https://www.nft.com/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.thecoffeeroasters.com/become-a-partner/",
+        link: "https://www.nft.com/become-a-partner/",
       },
     ],
   },
