@@ -4,6 +4,7 @@ import Subscribe from "./Subscribe.jsx";
 import Top from "./Top.jsx";
 import Heading from "./Heading.jsx";
 import Counter from "./Counter.jsx";
+import Footer from "./Footer.jsx";
 
 export {
     Header,
@@ -11,5 +12,6 @@ export {
     Subscribe,
     Top,
     Heading,
-    Counter
+    Counter,
+    Footer
 };
