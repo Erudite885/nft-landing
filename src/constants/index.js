@@ -5,13 +5,14 @@ export const navLinks = [
     id: "home",
     title: "Home",
   },
-  {
-    id: "about",
-    title: "about us",
-  },
+
   {
     id: "explore",
     title: "explore",
+  },
+  {
+    id: "subscribe",
+    title: "subscribe",
   },
 ];
 
@@ -108,7 +109,7 @@ export const socialMedia = [
   },
 ];
 
-const top = [
+export const top = [
   {
     id: "1",
     name: "abstact",
