@@ -16,7 +16,7 @@ const Footer = () => (
         <p
           className='font-poppins font-normal text-[18px] leading-[30.8px] mt-4 max-w-[310px]'
         >
-          write something about nfts here....
+          A highly curated marketplace where you can discover exclusive digital collectibles and their non-fungible tokens.
         </p>
       </div>
 
